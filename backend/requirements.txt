@@ -4,7 +4,9 @@ scikit-learn==1.7.2
 joblib==1.5.1
 gunicorn==25.1.0
 numpy==2.2.4
+setuptools==68.2.2
 flask-cors==4.0.0
-catboost==1.2.10
-lightgbm==4.6.0
-xgboost==2.1.4
+
+catboost
+lightgbm
+xgboost
